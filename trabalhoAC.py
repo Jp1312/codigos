@@ -88,7 +88,7 @@ def jogo(n1,n2,subs1,subs2):
         print(f"{n1} venceu o jogo!")
     else:
         print(f"{n2} venceu o jogo!")
-#bloco principaljp
+#bloco principal
 
 while True:
     subs1 = []
